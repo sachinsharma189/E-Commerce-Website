@@ -1,0 +1,28 @@
+{
+  "name": "lmncart",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "formik": "^1.5.7",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-notification-badge": "^1.4.0",
+    "react-redux": "^7.0.3",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "0.9.5",
+    "react-toastify": "^5.2.1",
+    "react-toasts": "^3.0.3",
+    "reactstrap": "^8.0.0",
+    "redux": "^4.0.1",
+    "redux-connect": "^9.0.0",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
